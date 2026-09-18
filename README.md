@@ -30,4 +30,4 @@ The solutions in this repository are primarily implemented using my core program
 
 ---
 
-*Maintained via [NeetCode GitHub Integration*](https://neetcode.io)
+*Maintained via [NeetCode GitHub Integration*](https://neetcode.io)*
